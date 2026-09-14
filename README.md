@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gopal Sapkale</h1>
 
-<!--
-**sapkaleGopal15/sapkaleGopal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Java Backend Developer | Spring Boot Developer | REST API Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building secure, scalable, and reliable backend applications using Java and Spring Boot.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Java & Spring Boot Projects**
+- 🌱 Exploring **Spring Boot, Spring Security, REST APIs, JPA & Hibernate**
+- 💼 Java Backend Developer
+- 🎓 Bachelor of Computer Application (BCA)
+- 🚀 Built **6 Personal Projects**
+- 👨‍💻 Experienced in developing Backend and Full Stack Applications
+- 🤝 Open to opportunities for **Java Backend Developer** roles
+- 📍 Based in Pune, Maharashtra, India
+
+---
+
+## 🛠️ My Core Technologies
+
+**Backend Development**
+
+Java • Spring Boot • Spring Security • REST APIs • JPA • Hibernate
+
+**Database**
+
+MySQL • PostgreSQL
+
+**Frontend**
+
+HTML • CSS • JavaScript • Thymeleaf
+
+**Tools**
+
+Git • GitHub • Maven • IntelliJ IDEA • Eclipse
+
+---
+
+### 🚀 Let's Build Something Amazing!
